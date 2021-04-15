@@ -5,7 +5,7 @@ Payment Testimonials
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Payment%20Dashboard%20By%20State%20Testimonial1.png)
 
-![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Payment%20Dashboard%20By%20State%20Testimonial2.png)
+![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Payment%20Dashboard%20By%20State%20Testimonial2.png?raw=true)
 
 ![](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Payment%20Dashboard%20By%20State%20Testimonial3.png)
 
