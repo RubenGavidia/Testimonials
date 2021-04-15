@@ -1,6 +1,8 @@
 # Testimonials
 Payment Testimonials
 
+![paymnetdashboarbystate](https://github.com/RubenGavidia/Tableau_Portfolio/blob/main/Visuals.png/Payment%20Dashboard%20By%20State%20Testimonial.png)
+
 ![stats 70$ part](https://github.com/RubenGavidia/Statistics-Stochastic_Portfolio_RubenGavidia0x/blob/master/Milton-Friedman.R/100%25%20OF%20SCORE%20INTERVAL%20CONFIDENCE%20AND%20NORMAL%20DISTRIBUTION.png?raw=true)
 
 Tableau Dashboard Payment 30$, 10$ Part, send the file... 20$ the other part payment.
